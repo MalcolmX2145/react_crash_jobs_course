@@ -16,3 +16,6 @@ This could be form input data, fetched data, UI-related data like if a modal is 
 
 There is also global state, which relates to the app as a whole and not a single component.
 
+###Things i used
+# 1. React Icons
+
