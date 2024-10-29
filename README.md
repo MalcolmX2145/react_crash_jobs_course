@@ -17,7 +17,7 @@ This could be form input data, fetched data, UI-related data like if a modal is 
 There is also global state, which relates to the app as a whole and not a single component.
 
 ### Things I used
-#### 1. React Icons
-#### 2. Json server
+#### 1. react-icons
+#### 2. json-server(a library that enables you to create a mock api with crud functionality)
 #### 3. Vite
 
