@@ -18,4 +18,6 @@ There is also global state, which relates to the app as a whole and not a single
 
 ### Things I used
 #### 1. React Icons
+#### 2. Json server
+#### 3. Vite
 
