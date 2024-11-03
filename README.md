@@ -21,6 +21,7 @@ There is also global state, which relates to the app as a whole and not a single
 #### 2. json-server(a library that enables you to create a mock api with crud functionality)
 #### 3. Vite
 #### 4. react-spinners - https://github.com/davidhu2000/react-spinners
+#### 5. react-toastify
 
 
 
