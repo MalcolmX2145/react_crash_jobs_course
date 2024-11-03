@@ -22,3 +22,12 @@ There is also global state, which relates to the app as a whole and not a single
 #### 3. Vite
 #### 4. react-spinners - https://github.com/davidhu2000/react-spinners
 
+
+
+
+
+
+
+
+### Note that the form code I used in this project in is AddJobPage.jsx file under the pages folder.
+
