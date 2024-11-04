@@ -24,7 +24,7 @@ There is also global state, which relates to the app as a whole and not a single
 
 #### 1. react-icons
 
-#### 2. json-server -(a library that enables you to create a mock api with crud functionality)
+#### 2. json-server - (a library that enables you to create a mock api with crud functionality)
 
 #### 3. Vite
 
