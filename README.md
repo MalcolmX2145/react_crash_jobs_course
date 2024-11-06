@@ -2,6 +2,16 @@
 
 This is a crash course project I used to learn React Library
 
+## The Application
+
+This is a web application that allows the user to find react developer jobs. 
+
+I have used a mock backend called json-server to act as the server which will store all the json data used on the page.
+
+It has crud functionality in that it the user can add a job, delete it, edit it ad view all the jobs. All this will then be reflected on the json file which runs the server.
+
+Use `npm run build` to run the frontend and `npm run server` to the the backend.
+
 ## Things learned
 
 ### Components
